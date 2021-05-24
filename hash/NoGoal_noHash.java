@@ -1,4 +1,9 @@
   public class NoGoal {
+    /**
+    hash 없이도 가능할 것 같아서 한번 만들어 보았다.
+    프로그래머스 에서 코드실행은 되나
+    효율성은 0으로 나와서 쓸 수 없다.
+    */
     public static void main(String[] args) {
     String[] parti = {"marina", "josipa", "nikola", "vinko", "filipa"};
     String[] compl = {"josipa", "filipa", "marina", "nikola"};
